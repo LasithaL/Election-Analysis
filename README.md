@@ -8,23 +8,23 @@ The project focus is on a tri-county area elections results. The results will be
 
 ### Deliverables
 The data file will be analyzed for the following.
-    1. The total number of votes cast.
-    2. A complete list of candidates who received votes.
-    3. The total number of votes each candidate received.
-    4. Percentage of votes each candidate won.
-    5. The winner of the election based on popular vote.
-    6. The turnout of voter by county.
-    7. Percentage of voters from each county based on the total turnout.
-    8. The county with the highest voter turnout.
+1. The total number of votes cast.
+2. A complete list of candidates who received votes.
+3. The total number of votes each candidate received.
+4. Percentage of votes each candidate won
+5. The winner of the election based on popular vote.
+6. The turnout of voter by county.
+7. Percentage of voters from each county based on the total turnout.
+8. The county with the highest voter turnout.
 The analyzed data then will be displayed to computer screen and stored into a text file for future reference.
 
 ## Resources
 A data source, software and a repository were using as resources during this project.
-    - Data Source: The election results were provided through a data file election_results.csv, a comma separated value file.
-    - Sofware:
-        - Python 3.7: Python 3.7 was utilized as the analysis package where the election result data was manpulated.
-        - Visual Studios Code 1.61.1: The text editor where the code for the analysis algorithms was written.
-    - Repository: GitHub was used as the repository to store, update and share the code with the project group.
+- Data Source: The election results were provided through a data file election_results.csv, a comma separated value file.
+- Sofware
+    1. Python 3.7: Python 3.7 was utilized as the analysis package where the election result data was manpulated.
+    2. Visual Studios Code 1.61.1: The text editor where the code for the analysis algorithms was written.
+- Repository: GitHub was used as the repository to store, update and share the code with the project group.
 
 ## Election Results
 The election was held over three counties where three candidates competed for the position.  A summary data is provided below.

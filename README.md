@@ -28,18 +28,19 @@ A data source, software and a repository were using as resources during this pro
 
 ## Election Results
 The election was held over three counties where three candidates competed for the position.  A summary data is provided below.
-    - There were a total of 369,711 votes cast in this election.
-    - There were three counties, Jefferson, Denver and Arapahoe included in this election.  The county vote distribution within the precinct is displayed below.
-        - Jefferson county cast 38,855 votes, a 10.5% of the total votes.
-        - Denver county cast 306,055 votes, a 82.8& of the total votes.
-        - Arapahoe county cast 24,801 votes, a 6.7% of the total votes.
-    - The results also show that Denver county had the largest voter turnout with 306,055 votes cast.
-    - There were three candidtes on the ballot.  The vote distribution is as follows.
-        - Candidate Charles Casper Stockham received 23.0% of the votes accumulating 85,213 votes.
-        - Candidate Diana DeGette received 73.8% of the votes accumulating 272,892 votes.
-        - Raymon Anthony Doane received 3.1% of the votes accumulating 11,606 votes.
-    - In this election the clear winner is Diana DeGette who received 73.8% of the total vote accumulating 272,892 votes.
-    ![Election Summary Results](Analysis/TextFileDisplay.PNG)
+- There were a total of 369,711 votes cast in this election.
+- There were three counties, Jefferson, Denver and Arapahoe included in this election.  The county vote distribution within the precinct is displayed below.
+    - Jefferson county cast 38,855 votes, a 10.5% of the total votes.
+    - Denver county cast 306,055 votes, a 82.8& of the total votes.
+    - Arapahoe county cast 24,801 votes, a 6.7% of the total votes.
+- The results also show that Denver county had the largest voter turnout with 306,055 votes cast.
+- There were three candidtes on the ballot.  The vote distribution is as follows.
+    - Candidate Charles Casper Stockham received 23.0% of the votes accumulating 85,213 votes.
+    - Candidate Diana DeGette received 73.8% of the votes accumulating 272,892 votes.
+    - Raymon Anthony Doane received 3.1% of the votes accumulating 11,606 votes.
+- In this election the clear winner is Diana DeGette who received 73.8% of the total vote accumulating 272,892 votes.
+
+![Election Summary Results](Analysis/TextFileDisplay.PNG)
 
 ## Election Summary
 Data within a flat file with three columns that included a Ballot ID, County Name and Candidate Name was extracted, transformed, and then a set of summary results saved to determine a winner of a county level election.  All of this was accomplished simply using a set of Python script that included lists, dictionaries, loops and conditional statements. This script can be easily expanded to do more either with the existing dataset or an expanded dataset.

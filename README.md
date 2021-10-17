@@ -39,7 +39,7 @@ The election was held over three counties where three candidates competed for th
         - Candidate Diana DeGette received 73.8% of the votes accumulating 272,892 votes.
         - Raymon Anthony Doane received 3.1% of the votes accumulating 11,606 votes.
     - In this election the clear winner is Diana DeGette who received 73.8% of the total vote accumulating 272,892 votes.
-![Election Summary Results](Analysis/TextFileDisplay.PNG)
+    ![Election Summary Results](Analysis/TextFileDisplay.PNG)
 
 ## Election Summary
 Data within a flat file with three columns that included a Ballot ID, County Name and Candidate Name was extracted, transformed, and then a set of summary results saved to determine a winner of a county level election.  All of this was accomplished simply using a set of Python script that included lists, dictionaries, loops and conditional statements. This script can be easily expanded to do more either with the existing dataset or an expanded dataset.
